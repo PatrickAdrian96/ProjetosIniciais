@@ -1,2 +1,2 @@
 # Logica de Programação
-Iniciando envio de projetos, 
+Iniciando envio de projetos
